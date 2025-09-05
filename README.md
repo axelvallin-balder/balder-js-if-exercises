@@ -265,7 +265,7 @@ Stor bokstav
 [Test 3](http://balder.skelamp.se/kurser/prog1/test/?i=!&o=Annat%20tecken)
 
 ### Deluppgift 13
-Detta program ska kunna avgöra om ett inmatat tecken är en liten bokstav, stor bokstav eller annat tecken. Det räcker om det fungerar för tecken i det engelska alfabetet (A-Z).
+Programmet ska kunna avgöra hur många siffror det inmatade talet består av samt om det är negativt, positivt eller noll.
 
 ```
 Mata in ett tal mellan -999 och 999: 32
